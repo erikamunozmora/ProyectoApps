@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0FBCE9</color>
+    <color name="colorPrimaryDark">#0961C7</color>
+    <color name="colorAccent">#000000</color>33
+    <color name="blanco">#FFFFFF</color>
+    <color name="cyanclaro">#540FBCE9</color>
+    <color name="azulreyclaro">#540961C7</color>
+    <color name="azulclaroeprofesor">#4D0FBCE9</color>
+    <color name="azulclaroestudiante">#990FBCE9</color>
+    <color name="grisbordes">#807A7E83</color>
+    <color name="azulbordes">#2B0FBCE9</color>
+
+</resources>
