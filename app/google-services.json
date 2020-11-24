@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821354996718",
+    "firebase_url": "https://serviguias123.firebaseio.com",
+    "project_id": "serviguias123",
+    "storage_bucket": "serviguias123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821354996718:android:a25644f3135897df12e4ff",
+        "android_client_info": {
+          "package_name": "com.example.proyectoapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821354996718-kh0utge0dq3tavi2ohil0ae4k77oqr1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt6XdlKVNjT5DxK3yoqvZLDPTeuB6JHQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821354996718-kh0utge0dq3tavi2ohil0ae4k77oqr1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
